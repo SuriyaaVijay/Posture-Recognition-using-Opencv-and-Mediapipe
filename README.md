@@ -1,4 +1,5 @@
 # Posture-Recognition
+## Mail to : suriyaa2002@gmail.com for Full Project Report and Full Project Code. This does not have the code files !
 ## OpenCV and Mediapipe based good and bad posture Recognition
 ### Kindly Star this Repository ⚡
 

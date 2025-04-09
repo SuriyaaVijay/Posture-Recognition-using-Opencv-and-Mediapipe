@@ -7,7 +7,6 @@ Posture correction is an important aspect of maintaining a healthy lifestyle, es
 ## Screenshots
 MediaPipe Architecture 
 :-------------------:
-![MP - screenshot](/MediaPipe.png)
 Good Posture
 ![GP - screenshot](/Good_Posture.png)
 Bad Posture 
